@@ -1,0 +1,60 @@
+
+p {
+  color: white;
+  background-color:#00CED1;
+  font-size:40;
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.button-standard {
+  border:none;
+  border-radius: 30px;
+  color:white;
+  padding: 8px;
+}
+
+.a {
+  width: 80px;
+  height: 30px;
+  font-size: 10px;
+  background-color:#FFB6C1;
+}
+
+.b {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  background-color:#00CED1;
+}
+
+.c {
+  width: 260px;
+  height: 60px;
+  font-size: 30px;
+  background-color: #FFBB66;
+}
+
+.button-transparent {
+  background-color: transparent;
+  border-style: solid;
+  border-radius: 30px;
+}
+
+.pink {
+  border-color: #FFB6C1;
+}
+
+.blue {
+  border-color: #00CED1;
+}
+
+.orange {
+  border-color: #FFBB66;
+}
+
+.purple {
+  border-color: #9370DB;
+}
